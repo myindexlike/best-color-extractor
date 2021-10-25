@@ -60,18 +60,3 @@ You can set it as an integer representing the color, then transparent colors wil
 // pure red #FF0000 at 50% opacity will be stored as #FF8080 as it would be perceived
 $palette = Palette::fromFilename('./some/image.png', Color::fromHexToInt('#FFFFFF'));
 ```
-
-## Contributing
-
-Please see [CONTRIBUTING](https://github.com/myindexlike/best-color-extractor/blob/master/CONTRIBUTING.md) for details.
-
-
-## Credits
-
-- [Mathieu Lechat](https://github.com/MatTheCat)
-- [All Contributors](https://github.com/myindexlike/best-color-extractor/contributors)
-
-
-## License
-
-The MIT License (MIT). Please see [License File](https://github.com/myindexlike/best-color-extractor/blob/master/LICENSE) for more information.
